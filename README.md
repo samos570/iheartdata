@@ -17,9 +17,9 @@ each from a large list of common words requiring a specific skill (see below).
 The sample size of 20 allows for quick mental calculation of the accuracy as a
 percentage, and a data table and blank graph are provided for tracking accuracy
 over time. For each sample, a student copy and a teacher copy of the assessment
-are generated. The student copy could be reused for each student, or given to
-the student to keep, while the teacher copy retains the date and accuracy
-information.
+are generated. The student copy can either be reused for each student or given
+to the student to keep, while the teacher copy is retained as a record with the
+date and accuracy score.
 
 
 ## CVC Words
