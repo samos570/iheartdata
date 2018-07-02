@@ -10,26 +10,30 @@ collection in mind. The goal is to make the process of data collection as easy
 as possible, increasing the probability that teachers will be able to implement
 these strategies. 
 
-# Assessments in this Collection
+# Single Word Reading Accuracy Assessments
+
+For assessments in this collection we generate 20 random samples of 20 words
+each from a large list of common words requiring a specific skill (see below).
+The sample size of 20 allows for quick mental calculation of the accuracy as a
+percentage, and a data table and blank graph are provided for tracking accuracy
+over time. For each sample, a student copy and a teacher copy of the assessment
+are generated. The student copy could be reused for each student, or given to
+the student to keep, while the teacher copy retains the date and accuracy
+information.
+
 
 ## CVC Words
 
-![](./Images/cover-cvc.png)
+<img src="./Images/cover-cvc.png" alt="CVC" width="200">
 
 The ability to read consonant-vowel-consonant (CVC) words is an early reading
-skill. We generate 20 random samples of 20 words each from a large list of
-common CVC words. Each sample of 20 contains four words containing each short
-vowel sound. The sample size of 20 allows for quick mental calculation of the
-accuracy as a percentage, and a data table and blank graph are provided for
-tracking accuracy over time. For each sample, a student copy and a teacher copy
-of the assessment are generated. The student copy could be reused for each
-student, or given to the student to keep, while the teacher copy retains the
-date and accuracy information.
+skill. Each sample of 20 words contains 4 words involving each short vowel
+sound. 
 
 ## CCVC Words
 
 
-![](./Images/cover-ccvc.png)
+<img src="./Images/cover-ccvc.png" alt="CCVC" width="200">
 
 As above, but now words begin with a consonant blend. Each sample of 20 
 contains 8 blends involving r, 6 involving s, 4 involving l, and 2 involving a
