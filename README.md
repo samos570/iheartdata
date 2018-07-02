@@ -14,9 +14,12 @@ these strategies.
 
 ## CVC Words
 
-Consonant-vowel-consonant (CVC) words are an early reading skill. We use Python
-to generate 20 random samples of 20 words each from a large list of common CVC
-words. Each sample of 20 contains four words containing each short vowel sound.
-The sample size of 20 allows for quick mental calculation of the accuracy as a
-percentage, and a data table and blank graph are provided for tracking accuracy
-over time. 
+The ability to read consonant-vowel-consonant (CVC) words is an early reading
+skill. We generate 20 random samples of 20 words each from a large list of
+common CVC words. Each sample of 20 contains four words containing each short
+vowel sound. The sample size of 20 allows for quick mental calculation of the
+accuracy as a percentage, and a data table and blank graph are provided for
+tracking accuracy over time. For each sample, a student copy and a teacher copy
+of the assessment are generated. The student copy could be reused for each
+student, or given to the student to keep, while the teacher copy retains the
+date and accuracy information. 
