@@ -25,16 +25,13 @@ information.
 ## CVC Words
 
 <img src="./Images/cover-cvc.png" alt="CVC" width="200" style="float:left;">
-
 The ability to read consonant-vowel-consonant (CVC) words is an early reading
 skill. Each sample of 20 words contains 4 words involving each short vowel
 sound. 
 
 ## CCVC Words
 
-
 <img src="./Images/cover-ccvc.png" alt="CCVC" width="200" style="float:left;">
-
-As above, but now words begin with a consonant blend. Each sample of 20 
+These single syllable words begin with a consonant blend. Each sample of 20
 contains 8 blends involving r, 6 involving s, 4 involving l, and 2 involving a
-a blend of three consonants. 
+blend of three consonants. 
