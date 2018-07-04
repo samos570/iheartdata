@@ -54,6 +54,23 @@ Similar to CVC words, but consisting of nonsense words.
 
 &nbsp;
 
+## CVC Mixed
+
+<img src="./Images/coverCVCm.png" alt="CVC" width="200" align="right"> 
+A 50/50 mix of CVC words and CVC nonsense words. Each sample of 20 words
+contains 4 words involving each short vowel sound, 2 of which are real words
+and 2 of which are nonsense.
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CVC nonsense words (student copies)
+* 20 random samples of CVC nonsense words (teacher copies)
+
+&nbsp;
+
 ## CCVC Words
 
 <img src="./Images/coverCCVC.png" alt="CCVC" width="200" align="right">
