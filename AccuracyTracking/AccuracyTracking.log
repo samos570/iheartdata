@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  1 JUL 2018 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  4 JUL 2018 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**AccuracyTracker.tex
-(./AccuracyTracker.tex
+**AccuracyTracking.tex
+(./AccuracyTracking.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
@@ -359,8 +359,8 @@ Package ifvtex Info: VTeX not detected.
 \Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks23
 )
-(./AccuracyTracker.aux)
-\openout1 = `AccuracyTracker.aux'.
+(./AccuracyTracking.aux)
+\openout1 = `AccuracyTracking.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -416,18 +416,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \c@trial=\count140
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./AccuracyTracker.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./AccuracyTracking.aux) )
+ 
 Here is how much of TeX's memory you used:
  4012 strings out of 494953
- 53997 string characters out of 6180978
+ 54006 string characters out of 6180978
  143087 words of memory out of 5000000
  7355 multiletter control sequences out of 15000+600000
  5151 words of font info for 19 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 25i,9n,32p,169b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
-<
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on AccuracyTracker.pdf (1 page, 14751 bytes).
+ 25i,9n,32p,170b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on AccuracyTracking.pdf (1 page, 14751 bytes).
 PDF statistics:
  12 PDF objects out of 1000 (max. 8388607)
  7 compressed objects within 1 object stream

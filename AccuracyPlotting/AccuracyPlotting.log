@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  1 JUL 2018 14:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.9)  4 JUL 2018 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**AccuracyGrapher.tex
-(./AccuracyGrapher.tex
+**AccuracyPlotting.tex
+(./AccuracyPlotting.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 3 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
@@ -670,8 +670,8 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) (./AccuracyGrapher.aux)
-\openout1 = `AccuracyGrapher.aux'.
+))) (./AccuracyPlotting.aux)
+\openout1 = `AccuracyPlotting.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -780,18 +780,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./AccuracyGrapher.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./AccuracyPlotting.aux) )
+ 
 Here is how much of TeX's memory you used:
  15209 strings out of 494953
- 285319 string characters out of 6180978
+ 285328 string characters out of 6180978
  352899 words of memory out of 5000000
  18286 multiletter control sequences out of 15000+600000
  5151 words of font info for 19 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,10n,54p,396b,674s stack positions out of 5000i,500n,10000p,200000b,80000s
-<
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on AccuracyGrapher.pdf (1 page, 15264 bytes).
+ 60i,10n,54p,397b,674s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on AccuracyPlotting.pdf (1 page, 15264 bytes).
 PDF statistics:
  15 PDF objects out of 1000 (max. 8388607)
  10 compressed objects within 1 object stream

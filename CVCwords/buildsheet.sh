@@ -9,13 +9,13 @@ cd ../Worksheet
 pdflatex worksheet.tex
 cd ../Coversheet
 pdflatex coversheet.tex
-cd ../AccuracyTracker
-pdflatex AccuracyTracker.tex
-cd ../AccuracyGrapher
-pdflatex AccuracyGrapher.tex
-cd ../
+cd ../../AccuracyTracking
+pdflatex AccuracyTracking.tex
+cd ../AccuracyPlotting
+pdflatex AccuracyPlotting.tex
+cd ../CVCwords
 
 # Merge pdfs
-pdftk ./Coversheet/coversheet.pdf ./AccuracyTracker/AccuracyTracker.pdf ./AccuracyGrapher/AccuracyGrapher.pdf ./Worksheet/worksheet.pdf cat output CVCwords.pdf
+pdftk ./Coversheet/coversheet.pdf ../AccuracyTracking/AccuracyTracking.pdf ../AccuracyPlotting/AccuracyPlotting.pdf ./Worksheet/worksheet.pdf cat output CVCwords.pdf
 
 
