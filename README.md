@@ -24,7 +24,7 @@ date and accuracy score.
 
 ## CVC Words
 
-<img src="./Images/cover-cvc.png" alt="CVC" width="200" align="right">
+<img src="./Images/coverCVC.png" alt="CVC" width="200" align="right">
 The ability to read consonant-vowel-consonant (CVC) words is an early reading
 skill. Each sample of 20 words contains 4 words involving each short vowel
 sound.
@@ -39,9 +39,24 @@ sound.
 
 &nbsp;
 
+## CVC Nonsense
+
+<img src="./Images/coverCVC.png" alt="CVC" width="200" align="right">
+Similar to CVC words, but consisting of nonsense words. 
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CVC nonsense words (student copies)
+* 20 random samples of CVC nonsense words (teacher copies)
+
+&nbsp;
+
 ## CCVC Words
 
-<img src="./Images/cover-ccvc.png" alt="CCVC" width="200" align="right">
+<img src="./Images/coverCCVC.png" alt="CCVC" width="200" align="right">
 These single syllable words begin with a consonant blend. Each sample of 20
 contains 8 blends involving R, 6 involving S, 4 involving L, and 2 involving a
 blend of three consonants.
