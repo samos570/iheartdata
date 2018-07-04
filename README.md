@@ -41,7 +41,7 @@ sound.
 
 ## CVC Nonsense
 
-<img src="./Images/coverCVC.png" alt="CVC" width="200" align="right">
+<img src="./Images/coverCVCn.png" alt="CVC" width="200" align="right">
 Similar to CVC words, but consisting of nonsense words. 
 
 &nbsp;
