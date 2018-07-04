@@ -10,6 +10,16 @@ collection in mind. The goal is to make the process of data collection as easy
 as possible, increasing the probability that teachers will be able to implement
 these strategies. 
 
+Table of Contents
+=================
+
+* [Single Word Accuracy Assessments](#single-word-reading-accuracy-assessments)
+    * [CVC words](#cvc-words)
+    * [CVC nonsense](#cvc-nonsense)
+    * [CVC mixed](#cvc-mixed)
+    * [CCVC words](#ccvc-words)
+
+
 # Single Word Reading Accuracy Assessments
 
 For assessments in this collection we generate 20 random samples of 20 words
@@ -87,3 +97,5 @@ blend of three consonants.
 * 20 random samples of CCVC words (teacher copies)
 
 &nbsp;
+
+
