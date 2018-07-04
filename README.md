@@ -123,14 +123,12 @@ It is assumed that Python 3 is installed and available as `python`.
 
 ## Build Instructions
 
-Clone the repository, and run `buildsheet.sh` twice within an assessment
-directory. The .pdf output will be generated at the top level inside the
-assessment directory.
+Clone the repository, and run `buildsheet.sh` within an assessment directory.
+The .pdf output will be generated in the same directory.
 
 ```
 git clone https://github.com/samos570/iheartdata
 cd ~/ihdeartdata
 cd CVCwords
-./buildsheet.sh
 ./buildsheet.sh
 ```

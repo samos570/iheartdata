@@ -9,6 +9,7 @@ cd ../Worksheet
 pdflatex worksheet.tex
 cd ../Coversheet
 pdflatex coversheet.tex
+pdflatex coversheet.tex
 cd ../../AccuracyTracking
 pdflatex AccuracyTracking.tex
 cd ../AccuracyPlotting
