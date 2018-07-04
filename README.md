@@ -20,6 +20,7 @@ Table of Contents
     * [CCVC words](#ccvc-words)
 * [Installation](#installation)
     * [Dependencies](#dependencies)
+    * [Build Instructions](#build-instructions)
 
 # Single Word Reading Accuracy Assessments
 
@@ -120,7 +121,7 @@ apt-get install pdftk
 
 It is assumed that Python 3 is installed and available as `python`. 
 
-## Building the Worksheets
+## Building Instructions
 
 Clone the repository, and run `buildsheet.sh` twice within an assessment
 directory. The .pdf output will be gerated at the top level inside the
@@ -129,8 +130,7 @@ assessment directory.
 ```
 git clone https://github.com/samos570/iheartdata
 cd ~/ihdeartdata
-cd ./CVCwords
+cd CVCwords
 ./buildsheet.sh
 ./buildsheet.sh
 ```
-
