@@ -121,10 +121,10 @@ apt-get install pdftk
 
 It is assumed that Python 3 is installed and available as `python`. 
 
-## Building Instructions
+## Build Instructions
 
 Clone the repository, and run `buildsheet.sh` twice within an assessment
-directory. The .pdf output will be gerated at the top level inside the
+directory. The .pdf output will be generated at the top level inside the
 assessment directory.
 
 ```
