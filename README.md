@@ -13,12 +13,13 @@ these strategies.
 Table of Contents
 =================
 
-* [Single Word Accuracy Assessments](#single-word-reading-accuracy-assessments)
+* [Single Word Reading Accuracy Assessments](#single-word-reading-accuracy-assessments)
     * [CVC words](#cvc-words)
     * [CVC nonsense](#cvc-nonsense)
     * [CVC mixed](#cvc-mixed)
     * [CCVC words](#ccvc-words)
-
+* [Installation](#installation)
+    * [Dependencies](#dependencies)
 
 # Single Word Reading Accuracy Assessments
 
@@ -30,7 +31,6 @@ over time. For each sample, a student copy and a teacher copy of the assessment
 are generated. The student copy can either be reused for each student or given
 to the student to keep, while the teacher copy is retained as a record with the
 date and accuracy score.
-
 
 ## CVC Words
 
@@ -98,4 +98,39 @@ blend of three consonants.
 
 &nbsp;
 
+# Installation
+
+The following can be used to build the worksheets on Ubuntu 16.04. 
+
+## Dependencies
+
+### TexLive
+
+```
+apt-get install texlive
+```
+
+### PDFtk (PDF toolkit)
+
+```
+apt-get install pdftk
+```
+
+### Python 3
+
+It is assumed that Python 3 is installed and available as `python`. 
+
+## Building the Worksheets
+
+Clone the repository, and run `buildsheet.sh` twice within an assessment
+directory. The .pdf output will be gerated at the top level inside the
+assessment directory.
+
+```
+git clone https://github.com/samos570/iheartdata
+cd ~/ihdeartdata
+cd ./CVCwords
+./buildsheet.sh
+./buildsheet.sh
+```
 
