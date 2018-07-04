@@ -66,8 +66,8 @@ and 2 of which are nonsense.
 **Included:**
 * Accuracy tracking table
 * Accuracy plotting
-* 20 random samples of CVC nonsense words (student copies)
-* 20 random samples of CVC nonsense words (teacher copies)
+* 20 random samples of CVC mixed words (student copies)
+* 20 random samples of CVC mixed words (teacher copies)
 
 &nbsp;
 
