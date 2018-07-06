@@ -18,6 +18,8 @@ Table of Contents
     * [CVC nonsense](#cvc-nonsense)
     * [CVC mixed](#cvc-mixed)
     * [CCVC words](#ccvc-words)
+    * [CCVC nonsense](#ccvc-nonsense)
+    * [CCVC mixed](#ccvc-mixed)
 * [Installation](#installation)
     * [Dependencies](#dependencies)
     * [Build Instructions](#build-instructions)
@@ -96,6 +98,40 @@ blend of three consonants.
 * Accuracy plotting
 * 20 random samples of CCVC words (student copies)
 * 20 random samples of CCVC words (teacher copies)
+
+&nbsp;
+
+## CCVC Nonsense
+
+<img src="./Images/coverCCVCn.png" alt="CCVC" width="200" align="right">
+
+Similar to CCVC words, but consisting of nonsense words.
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CCVC nonsense words (student copies)
+* 20 random samples of CCVC nonsense words (teacher copies)
+
+&nbsp;
+
+## CCVC Mixed
+
+<img src="./Images/coverCCVCm.png" alt="CCVC" width="200" align="right"> 
+A 50/50 mix of CCVC words and CCVC nonsense words. Each sample of 20 contains 8
+blends involving R (with 4 nonsense), 6 involving S (with 3 nonsense), 4
+involving L (with 2 nonsense), and 2 involving a blend of three consonants
+(with one nonsense).
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CCVC mixed words (student copies)
+* 20 random samples of CCVC mixed words (teacher copies)
 
 &nbsp;
 
