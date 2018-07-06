@@ -143,13 +143,13 @@ The following can be used to build the worksheets on Ubuntu 16.04.
 
 ### TexLive
 
-```
+```shell
 apt-get install texlive
 ```
 
 ### PDFtk (PDF toolkit)
 
-```
+```shell
 apt-get install pdftk
 ```
 
@@ -162,7 +162,7 @@ It is assumed that Python 3 is installed and available as `python`.
 Clone the repository, and run `buildsheet.sh` within an assessment directory.
 The .pdf output will be generated in the same directory.
 
-```
+```shell
 git clone https://github.com/samos570/iheartdata
 cd ~/ihdeartdata
 cd CVCwords
