@@ -20,6 +20,7 @@ Table of Contents
     * [CCVC words](#ccvc-words)
     * [CCVC nonsense](#ccvc-nonsense)
     * [CCVC mixed](#ccvc-mixed)
+    * [CVCe words](#cvce-words)
 * [Installation](#installation)
     * [Dependencies](#dependencies)
     * [Build Instructions](#build-instructions)
@@ -132,6 +133,23 @@ involving L (with 2 nonsense), and 2 involving a blend of three consonants
 * Accuracy plotting
 * 20 random samples of CCVC mixed words (student copies)
 * 20 random samples of CCVC mixed words (teacher copies)
+
+&nbsp;
+
+## CVCe Words
+
+<img src="./Images/coverCVCe.png" alt="CVC" width="200" align="right">
+CVCe words end with a silent E creating a long vowel sound. Each sample of 20
+words contains 6 words each with the vowel A, I and O, and two words with the
+vowel U.
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CVCe words (student copies)
+* 20 random samples of CVCe words (teacher copies)
 
 &nbsp;
 
