@@ -140,7 +140,7 @@ involving L (with 2 nonsense), and 2 involving a blend of three consonants
 
 <img src="./Images/coverCVCe.png" alt="CVC" width="200" align="right">
 CVCe words end with a silent E creating a long vowel sound. Each sample of 20
-words contains 6 words each with the vowel A, I and O, and two words with the
+words contains 6 words each with the vowel A, I and O, and 2 words with the
 vowel U.
 
 &nbsp;
