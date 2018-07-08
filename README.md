@@ -21,6 +21,8 @@ Table of Contents
     * [CCVC nonsense](#ccvc-nonsense)
     * [CCVC mixed](#ccvc-mixed)
     * [CVCe words](#cvce-words)
+    * [CVCe nonsense](#cvce-nonsense)
+    * [CVCe mixed](#cvce-mixed)
 * [Installation](#installation)
     * [Dependencies](#dependencies)
     * [Build Instructions](#build-instructions)
@@ -150,6 +152,38 @@ vowel U.
 * Accuracy plotting
 * 20 random samples of CVCe words (student copies)
 * 20 random samples of CVCe words (teacher copies)
+
+&nbsp;
+
+## CVCe Nonsense
+
+<img src="./Images/coverCVCen.png" alt="CVC" width="200" align="right">
+Similar to CVCe words, but consisting of nonsense words.
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CVCe nonsense words (student copies)
+* 20 random samples of CVCe nonsense words (teacher copies)
+
+&nbsp;
+
+## CVCe Mixed
+
+<img src="./Images/coverCVCem.png" alt="CCVC" width="200" align="right"> 
+A 50/50 mix of CVCe words and CVCe nonsense words. Each sample of 20 words
+contains 6 words each with the vowel A, I and O, (each with 3 nonsense) and 2
+words with the vowel U (with 1 nonsense).
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CVCe mixed words (student copies)
+* 20 random samples of CVCe mixed words (teacher copies)
 
 &nbsp;
 
