@@ -14,9 +14,11 @@ cd ../../AccuracyTracking
 pdflatex AccuracyTracking.tex
 cd ../AccuracyPlotting
 pdflatex AccuracyPlotting.tex
+cd ../Instructions
+pdflatex instructions.tex
 cd ../CVCnonsense
 
 # Merge pdfs
-pdftk ./Coversheet/coversheet.pdf ../AccuracyTracking/AccuracyTracking.pdf ../AccuracyPlotting/AccuracyPlotting.pdf ./Worksheet/worksheet.pdf cat output CVCnonsense.pdf
+pdftk ./Coversheet/coversheet.pdf ../Instructions/instructions.pdf ../AccuracyTracking/AccuracyTracking.pdf ../AccuracyPlotting/AccuracyPlotting.pdf ./Worksheet/worksheet.pdf cat output CVCnonsense.pdf
 
 

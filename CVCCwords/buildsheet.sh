@@ -2,7 +2,7 @@
 
 # Create the worksheet.tex file
 cd Python
-python randomCVC.py
+python randomCVCC.py
 
 # Compile all .tex files to pdf
 cd ../Worksheet
@@ -16,9 +16,9 @@ cd ../AccuracyPlotting
 pdflatex AccuracyPlotting.tex
 cd ../Instructions
 pdflatex instructions.tex
-cd ../CVCwords
+cd ../CVCCwords
 
 # Merge pdfs
-pdftk ./Coversheet/coversheet.pdf ../Instructions/instructions.pdf ../AccuracyTracking/AccuracyTracking.pdf ../AccuracyPlotting/AccuracyPlotting.pdf ./Worksheet/worksheet.pdf cat output CVCwords.pdf
+pdftk ./Coversheet/coversheet.pdf ../Instructions/instructions.pdf ../AccuracyTracking/AccuracyTracking.pdf ../AccuracyPlotting/AccuracyPlotting.pdf ./Worksheet/worksheet.pdf cat output CVCCwords.pdf
 
 
