@@ -180,6 +180,14 @@ words with the vowel U (with 1 nonsense).
 
 &nbsp;
 
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CVCe mixed words (student copies)
+* 20 random samples of CVCe mixed words (teacher copies)
+
+&nbsp;
+
 ## CVCC Words
 
 <img src="./Images/coverCVCC.png" alt="CVC" width="200" align="right"> 
@@ -195,15 +203,6 @@ LT (2), FT (2).
 * Accuracy plotting
 * 20 random samples of CVCC words (student copies)
 * 20 random samples of CVCC words (teacher copies)
-
-&nbsp;
-
-
-**Included:**
-* Accuracy tracking table
-* Accuracy plotting
-* 20 random samples of CVCe mixed words (student copies)
-* 20 random samples of CVCe mixed words (teacher copies)
 
 &nbsp;
 
