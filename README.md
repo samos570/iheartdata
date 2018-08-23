@@ -23,6 +23,7 @@ Table of Contents
     * [CVCe words](#cvce-words)
     * [CVCe nonsense](#cvce-nonsense)
     * [CVCe mixed](#cvce-mixed)
+    * [CVCC words](#cvcc-words)
 * [Installation](#installation)
     * [Dependencies](#dependencies)
     * [Build Instructions](#build-instructions)
@@ -178,6 +179,25 @@ contains 6 words each with the vowel A, I and O, (each with 3 nonsense) and 2
 words with the vowel U (with 1 nonsense).
 
 &nbsp;
+
+## CVCC Words
+
+<img src="./Images/coverCVCC.png" alt="CVC" width="200" align="right"> 
+
+CVCC words end with a consonant blend. Each sample of 20 words contains words
+ending in ST (5), SK (3), SP (1), ND (3), NT (2), NK (3), MP (2), LP or LD (2),
+LT (2), FT (2).
+
+&nbsp;
+
+**Included:**
+* Accuracy tracking table
+* Accuracy plotting
+* 20 random samples of CVCC words (student copies)
+* 20 random samples of CVCC words (teacher copies)
+
+&nbsp;
+
 
 **Included:**
 * Accuracy tracking table
